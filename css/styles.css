@@ -171,17 +171,17 @@ body{
 }
 
 .hero .hero-desc .hero-info .total-sale{
-    width: 220px;
+    width: 240px;
     height: 77px;
 }
 
 .hero .hero-desc .hero-info .auction{
-    width: 220px;
+    width: 240px;
     height: 77px;
 }
 
 .hero .hero-desc .hero-info .artists{
-    width: 220px;
+    width: 240px;
     height: 77px;
 }
 
@@ -229,7 +229,7 @@ body{
 .gallery .gallery-content{
     display: flex;
     flex-wrap: wrap;
-    gap: 15px;
+    gap: 30px;
     margin-top: 50px;
 }
 
@@ -363,7 +363,7 @@ body{
 .print .print-content{
     display: flex;
     overflow-x: scroll;
-    gap: 15px;
+    gap: 30px;
     margin-top: 50px;
 }
 
@@ -516,12 +516,9 @@ body{
 
 .creator .creator-content{
     margin-top: 60px;
-}
-
-.creator .creator-content{
     display: flex;
     flex-wrap: wrap;
-    gap: 10px;
+    gap: 26px;
 }
 
 .creator .creator-content .creator-artist{
@@ -609,7 +606,7 @@ body{
 
 .works .works-content{
     display: flex;
-    gap: 45px;
+    gap: 62px;
     margin-top: 48px;
 }
 
@@ -649,6 +646,7 @@ body{
 
 .footer{
     margin-top: 120px;
+    margin-left: 22px;
 
 }
 
